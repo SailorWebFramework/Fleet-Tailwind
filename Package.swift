@@ -18,7 +18,7 @@ let package = Package(
         .target(
             name: "Tailwind",
             dependencies: [],
-            path: "Sailboat"
+            path: "Sources"
         )
     ]
 )
